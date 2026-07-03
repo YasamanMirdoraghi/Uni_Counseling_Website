@@ -1,0 +1,22 @@
+{
+  "name": "مرکز مشاوره دانشگاه",
+  "short_name": "مشاوره دانشگاه",
+  "description": "سامانه رزرو نوبت مشاوره دانشگاه",
+  "start_url": "/WebsitePage/",
+  "display": "standalone",
+  "background_color": "#191a66",
+  "theme_color": "#f6c900",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/WebsitePage/assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/WebsitePage/assets/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
