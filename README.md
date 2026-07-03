@@ -20,7 +20,7 @@ A complete web-based counseling center management system for university students
 
 - Frontend: HTML5, CSS3, JavaScript (vanilla), Font Awesome
 - Backend: PHP 7.4+ (without frameworks)
-- Database: MySQL / MariaDB
+- Database: MySQL
 - PWA: Manifest.json, Service Worker
 
 ## 📋 Requirements
