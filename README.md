@@ -15,6 +15,11 @@ A complete web-based counseling center management system for university students
 - 📊 User Dashboard – View reservations, reviews, and statistics
 - 🛡️ Security – SQL injection prevention, XSS protection
 
+## 🌐 Live Demo
+
+The project is live and accessible at:  
+🔗 [http://university-counseling.ir/]
+
 ## 🛠️ Technologies
 
 - Frontend: HTML5, CSS3, JavaScript (vanilla), Font Awesome
